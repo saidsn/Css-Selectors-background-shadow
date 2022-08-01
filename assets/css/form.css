@@ -1,0 +1,42 @@
+body{
+    background-color:lightblue;
+}
+
+.main{
+    width: 800px;
+    height: 650px;
+    background-color:white;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.add{
+   margin-left: 30px;
+}
+
+h1{
+   margin-left: 250px;
+   
+}
+
+form .st{
+    width: 100px;
+    height: 30px;
+   margin-left: 320px;
+   background-color: rgb(118, 118, 217);
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.st:hover{
+    background-color: rgb(166, 180, 242);
+}
+
+.full-data input{
+    width: 60px;
+    border-radius: 4px;
+}
+
+.data input{
+    border-radius: 4px;
+}

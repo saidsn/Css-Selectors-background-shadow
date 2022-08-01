@@ -1,0 +1,51 @@
+
+.login{
+    text-align: center;
+    width: 450px;
+    background-color:darkgrey;
+    margin-top: 170px;
+    margin-left: 500px;
+    border-radius: 10px;
+    position: absolute;
+    margin-bottom: 100px;
+    height: 350px;
+}
+.login .submit{
+    width: 305px;
+    height: 40px;
+    background-color:rgb(203, 64, 92);
+    cursor: pointer;
+    font-size: 20px;
+}
+.submit ,value{
+    color: white;
+}
+h1{
+    margin-right: 216px;
+    margin-top: 30px;
+}
+
+form label{
+       margin-left: -240px;
+}
+.submit:hover{
+    background-color:rgb(234, 151, 168);
+}
+
+form input{
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+}
+body{
+    background-color: rgb(38, 96, 129);
+}
+h4{
+    background-color: antiquewhite;
+    width: 304px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 72px;
+    text-align: left;
+}
+
